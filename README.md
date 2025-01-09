@@ -25,3 +25,5 @@ A Node.js web app which shows the results of the voting in real time.
 
 Notes
 The voting application accepts only one vote per client browser. It does not register additional votes if a vote has already been submitted from a client.
+
+<img width="813" alt="cicd_pipeline" src="https://github.com/user-attachments/assets/b1af2af3-4ea1-46ae-b32c-59cd73528f1c" />
